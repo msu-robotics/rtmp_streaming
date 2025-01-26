@@ -148,6 +148,3 @@ This project is licensed under the MIT License.
 - **Nginx RTMP Module**: [https://github.com/arut/nginx-rtmp-module](https://github.com/arut/nginx-rtmp-module)
 ```
 
----
-
-### ✅ **Now You Can Copy & Paste This in One Click
