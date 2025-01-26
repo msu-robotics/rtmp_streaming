@@ -2,8 +2,7 @@ Here’s the **Linux-only README.md** file that you can **copy and paste in one 
 
 ---
 
-### **📜 README.md**
-```md
+
 # 🚀 RTMP Streaming with Ngrok & FFmpeg (Linux)
 
 This project sets up an **RTMP server** using **Nginx + RTMP Module**, and exposes it to the internet using **Ngrok**.  
@@ -151,5 +150,4 @@ This project is licensed under the MIT License.
 
 ---
 
-### ✅ **Now You Can Copy & Paste This in One Click!**  
-Let me know if you need any changes! 🚀🔥
+### ✅ **Now You Can Copy & Paste This in One Click
