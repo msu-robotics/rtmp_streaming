@@ -1,7 +1,3 @@
-Here’s the **Linux-only README.md** file that you can **copy and paste in one click**. 🚀  
-
----
-
 
 # 🚀 RTMP Streaming with Ngrok & FFmpeg (Linux)
 
@@ -146,5 +142,5 @@ This project is licensed under the MIT License.
 - **FFmpeg**: [https://ffmpeg.org/](https://ffmpeg.org/)
 - **Ngrok**: [https://ngrok.com/](https://ngrok.com/)
 - **Nginx RTMP Module**: [https://github.com/arut/nginx-rtmp-module](https://github.com/arut/nginx-rtmp-module)
-```
+
 
